@@ -1,0 +1,22 @@
+.change-color {
+    background-color: #3b82f6;
+    padding: 8px 15px;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+.change-color:hover {
+    background-color: #4a75bc;
+}
+
+p a {
+    text-decoration: none;
+    color: #3b82f6;
+    font-weight: bold;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
